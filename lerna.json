@@ -6,7 +6,8 @@
   "command": {
     "publish": {
       "preid": "alpha",
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "bump": "prerelease"
     }
   }
 }
