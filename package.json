@@ -1,0 +1,14 @@
+{
+  "name": "lerna-test",
+  "version": "1.0.0",
+  "description": "Testing lerna conventional commits.",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.2.1"
+  },
+  "workspaces": {
+    "packages": [ "packages/*" ]
+  }
+}
