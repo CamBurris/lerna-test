@@ -9,5 +9,3 @@ export const a = "a";
 // fdasd
 
 // qwert
-
-// ;lkj asdf
