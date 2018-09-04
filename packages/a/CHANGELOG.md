@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@2.0.2-alpha.0...@bede/a@3.0.0) (2018-09-04)
+
+
+* feat: ([772fdc1](https://github.com/CamBurris/lerna-test/commit/772fdc1))
+
+
+### BREAKING CHANGES
+
+* asdf
+
+
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/CamBurris/lerna-test/compare/@bede/a@2.0.2-alpha.0...@bede/a@2.0.2) (2018-09-04)
 
