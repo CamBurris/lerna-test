@@ -6,9 +6,18 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "commitizen": "^2.10.1",
+    "cz-conventional-changelog": "^2.1.0",
     "lerna": "^3.2.1"
   },
   "workspaces": {
-    "packages": [ "packages/*" ]
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
