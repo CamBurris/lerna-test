@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.1.5"></a>
+## [2.1.5](https://github.com/CamBurris/lerna-test/compare/@bede/b@2.1.4...@bede/b@2.1.5) (2018-09-04)
+
+**Note:** Version bump only for package @bede/b
+
+
+
+
+
 <a name="2.1.4"></a>
 ## [2.1.4](https://github.com/CamBurris/lerna-test/compare/@bede/b@2.1.3...@bede/b@2.1.4) (2018-09-04)
 
