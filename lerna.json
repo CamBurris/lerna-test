@@ -1,13 +1,9 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
   "version": "independent",
   "command": {
     "publish": {
-      "preid": "alpha",
-      "conventionalCommits": true,
-      "bump": "prerelease"
+      "conventionalCommits": true
     }
   }
 }
