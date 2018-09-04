@@ -1,9 +1,9 @@
 {
   "name": "@bede/b",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@bede/a": "^3.0.0"
+    "@bede/a": "^4.0.0"
   }
 }

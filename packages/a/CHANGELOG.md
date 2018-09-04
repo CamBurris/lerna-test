@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@3.0.0...@bede/a@4.0.0) (2018-09-04)
+
+
+* fix(asdf): ([10f3a4e](https://github.com/CamBurris/lerna-test/commit/10f3a4e))
+
+
+### Features
+
+* **some change:** short desc ([9c6bb33](https://github.com/CamBurris/lerna-test/commit/9c6bb33))
+
+
+### BREAKING CHANGES
+
+* asdf
+
+
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@2.0.2-alpha.0...@bede/a@3.0.0) (2018-09-04)
 
