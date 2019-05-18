@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [8.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@7.0.0...@bede/a@8.0.0) (2019-05-18)
+
+
+### Features
+
+* **test:** set ([acd7134](https://github.com/CamBurris/lerna-test/commit/acd7134))
+
+
+### BREAKING CHANGES
+
+* **test:** asdf
+
+
+
+
+
 # [7.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@6.0.0...@bede/a@7.0.0) (2019-05-18)
 
 
