@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@6.0.0...@bede/a@7.0.0) (2019-05-18)
+
+
+### Features
+
+* **test:** test ([8438405](https://github.com/CamBurris/lerna-test/commit/8438405))
+
+
+### BREAKING CHANGES
+
+* **test:** test
+
+
+
+
+
+
 # [6.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@4.0.6...@bede/a@6.0.0) (2019-05-18)
 
 
