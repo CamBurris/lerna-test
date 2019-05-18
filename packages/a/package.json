@@ -1,6 +1,9 @@
 {
   "name": "@bede/a",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'hello'"
+  }
 }
