@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/CamBurris/lerna-test/compare/@bede/a@4.0.6...@bede/a@5.0.0) (2019-05-18)
+
+
+### Features
+
+* **test:** test ([f79f5ed](https://github.com/CamBurris/lerna-test/commit/f79f5ed))
+
+
+### BREAKING CHANGES
+
+* **test:** yup
+
+
+
+
+
+
 ## [4.0.6](https://github.com/CamBurris/lerna-test/compare/@bede/a@2.0.2...@bede/a@4.0.6) (2019-05-18)
 
 **Note:** Version bump only for package @bede/a
